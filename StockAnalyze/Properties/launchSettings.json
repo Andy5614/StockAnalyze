@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StockAnalyze": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
